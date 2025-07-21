@@ -23,6 +23,6 @@
   <a href = "mailto:udyegopereira@gmail.com"><img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5561985542719" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/diego-pereira-8b3063249" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/DevPereira1st/DevPereira1st/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/DevPereira1st/DevPereira1st/blob/output/github-contribution-grid-snake.svg)
