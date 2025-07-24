@@ -19,7 +19,6 @@
 ### Sociais:
 <div> 
   <a href="https://instagram.com/dev.dpereira" target="_blank"><img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wG5NUEjq" target="_blank"><img src="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:udyegopereira@gmail.com"><img src="https://img.shields.io/badge/-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5561985542719" target="_blank"><img src="https://img.shields.io/badge/-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/diego-pereira-8b3063249" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
