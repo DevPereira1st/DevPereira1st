@@ -14,7 +14,17 @@
   <img align="center" alt="Pereira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-![Dev Pereira GitHub status](https://github-readme-stats.vercel.app/api?username=DevPereira1st&show_icons=true&theme=dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DevPereira1st&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DevPereira1st&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPereira1st&show_icons=true" />
+</picture>
 
 ### Sociais:
 <div> 
