@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=DevPereira1st&color=yellow)
+
 ## Olá, eu me chamo Diego Pereira, front-end, conhecido como Dev Pereira👋
 
 - 🔭 Estou em busca do primeiro emprego relacionado a tec.
