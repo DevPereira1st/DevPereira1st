@@ -6,7 +6,7 @@
 - ❇️ Estudando Engenharia de Software.
 - ❇️ Procuro pessoas para compartilhar experiências.
 - ❇️ Me pergunte como posso revolucionar seus projetos e trazer ganhos.
-- ❇️ Contato: Tel/Whatsapp: 61 985542719 ; Email: udyegopereira@gmail.com
+- ❇️ Contato: Tel/Whatsapp: 61 985542719.
 
 ### Tecnologias:
 
