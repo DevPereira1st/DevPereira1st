@@ -34,4 +34,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevPereira1st/DevPereira1st/output/github-contribution-grid-snake.svg">
 </picture>
 
-![DevPereira1st's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevPereira1st&theme=merko&hide_border=false)
+![DevPereira1st's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevPereira1st&theme=merko&hide_border=true)
