@@ -18,8 +18,6 @@
   <img align="center" alt="Pereira-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
-![DevPereira1st's Stats](https://github-readme-stats.vercel.app/api?username=DevPereira1st&theme=merko&show_icons=true&hide_border=false&count_private=false)
-
 ### Sociais:
 <div> 
   <a href="https://instagram.com/dev.dpereira" target="_blank"><img src="https://img.shields.io/badge/-%23E4405F?style=for-the-badge&logo=instagram&logoColor=green" target="_blank"></a>
